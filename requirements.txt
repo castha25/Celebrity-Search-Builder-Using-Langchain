@@ -1,3 +1,4 @@
 sambanova
 langchain
 streamlit
+langchain-openai
